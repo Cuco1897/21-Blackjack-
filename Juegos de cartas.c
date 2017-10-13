@@ -1,5 +1,12 @@
 //Juego 21 balckjack
 
+/* 2 numeros aleatorios 
+-Diclo pedir mas cartas
+-Determinar el ganador
+-Crear un mazo/deck 52 cartas (vector) 
+-Remover cartas usadas  
+-Remover cartas usadas (imprimir deck)*/
+
 #include <stdio.h>
 
 
